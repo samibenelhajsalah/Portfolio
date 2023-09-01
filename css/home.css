@@ -31,7 +31,7 @@
 {
 	pointer-events: all;
 	font-family: raleway_semi_bold;
-	font-size: 16px;
+	font-size: 14px;
 	color: var(--light_blue);
 }
 
@@ -39,7 +39,7 @@
 {
 	pointer-events: all;
 	font-family: calibre_semi_bold;
-	font-size: clamp(40px, 8vw, 80px);
+	font-size: 14px;
 	color: var(--white);
 	margin-top: 25px;
 }

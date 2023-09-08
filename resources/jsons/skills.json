@@ -83,49 +83,9 @@
 					"link": "https://en.wikipedia.org/wiki/JavaScript"
 				},
 				{
-					"name": "TypeScript",
-					"logo": "resources/svgs/skills/TypeScript.svg",
-					"link": "https://www.typescriptlang.org"
-				},
-				{
-					"name": "Svelte",
-					"logo": "resources/svgs/skills/Svelte.svg",
-					"link": "https://svelte.dev/"
-				},
-				{
-					"name": "jQuery",
-					"logo": "resources/svgs/skills/JQuery.svg",
-					"link": "https://jquery.com/"
-				},
-				{
 					"name": "Bootstrap",
 					"logo": "resources/svgs/skills/Bootstrap.svg",
 					"link": "https://getbootstrap.com/"
-				},
-				{
-					"name": "Tailwind",
-					"logo": "resources/svgs/skills/Tailwind.svg",
-					"link": "https://tailwindcss.com/"
-				},
-				{
-					"name": "Vite",
-					"logo": "resources/svgs/skills/Vite.svg",
-					"link": "https://vitejs.dev/"
-				},
-				{
-					"name": "ThreeJS",
-					"logo": "resources/svgs/skills/ThreeJS.svg",
-					"link": "https://threejs.org"
-				},
-				{
-					"name": "AnimeJS",
-					"logo": "resources/images/skills/AnimeJS.webp",
-					"link": "https://animejs.com"
-				},
-				{
-					"name": "GreenSock",
-					"logo": "resources/images/skills/GreenSock.webp",
-					"link": "https://greensock.com"
 				},
 				{
 					"name": "Git",

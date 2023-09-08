@@ -20,7 +20,7 @@
 		{
 			"date": 2022,
 			"type": "Software Engineer Intern",
-			"title": "École des Mines de Saint-Étienne",
+			"title": "Mines Saint-Étienne",
 			"description": "Design a system that establish optimized delivery routes for the company's drivers based on a list of orders and a set of constraints. The generated routes will be fed to the tracking management system.",
 			"tags":
 			[
@@ -44,7 +44,7 @@
 			],
 			"link": "https://www.cea.fr/english",
 			"video": "none",
-			"image": "resources/images/experience/logo-pp.webp"
+			"image": "resources/images/experience/logo-pprime.webp"
 		},
 		{
 			"date": 2021,

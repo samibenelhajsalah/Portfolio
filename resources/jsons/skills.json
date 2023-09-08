@@ -99,11 +99,6 @@
 			"skills" :
 			[
 				{
-					"name": "Theory",
-					"logo": "resources/svgs/skills/Theory.svg",
-					"link": "https://github.com/angeluriot/Neural_network"
-				},
-				{
 					"name": "Python",
 					"logo": "resources/svgs/skills/Python.svg",
 					"link": "https://www.python.org/"

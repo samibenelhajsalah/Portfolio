@@ -8,14 +8,14 @@
 			"description": "IBackend development for the Klaxit application (new feature implementation and bug fixes). Additionally, I developed a machine learning model to detect fraudulent activity (data collection, training, automation, and deployment).",
 			"tags":
 			[
-				{ "name": "C++", "url": "https://www.ruby-lang.org/" },
-				{ "name": "Python", "url": "https://rubyonrails.org/" },
+				{ "name": "C++", "url": "https://en.wikipedia.org/wiki/C%2B%2B" },
+				{ "name": "Python", "url": "https://www.python.org/" },
 				{ "name": "Cmake", "url": "https://cmake.org/" },
 				{ "name": "Tensorflow", "url": "https://www.tensorflow.org/" }
 			],
 			"link": "https://www.onera.fr/fr",
 			"video": "none",
-			"image": "resources/images/experience/ONERA_logo.svg"
+			"image": "resources/images/experience/onera.webp"
 		},
 		{
 			"date": 2022,

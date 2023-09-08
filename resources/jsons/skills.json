@@ -16,39 +16,9 @@
 					"link": "https://en.wikipedia.org/wiki/C%2B%2B"
 				},
 				{
-					"name": "Java",
-					"logo": "resources/svgs/skills/Java.svg",
-					"link": "https://en.wikipedia.org/wiki/Java_(programming_language)"
-				},
-				{
-					"name": "C#",
-					"logo": "resources/svgs/skills/C_sharp.svg",
-					"link": "https://en.wikipedia.org/wiki/C_Sharp_(programming_language)"
-				},
-				{
 					"name": "Python",
 					"logo": "resources/svgs/skills/Python.svg",
 					"link": "https://www.python.org/"
-				},
-				{
-					"name": "OCaml",
-					"logo": "resources/svgs/skills/OCaml.svg",
-					"link": "https://ocaml.org/index.html"
-				},
-				{
-					"name": "JavaFX",
-					"logo": "resources/svgs/skills/JavaFX.svg",
-					"link": "https://openjfx.io"
-				},
-				{
-					"name": "WinForms",
-					"logo": "resources/images/skills/WinForms.webp",
-					"link": "https://learn.microsoft.com/en-us/dotnet/desktop/winforms/"
-				},
-				{
-					"name": "OpenCL",
-					"logo": "resources/svgs/skills/OpenCL.svg",
-					"link": "https://www.khronos.org/opencl/"
 				},
 				{
 					"name": "CMake",

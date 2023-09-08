@@ -119,53 +119,6 @@
 					"link": "https://keras.io/"
 				}
 			]
-		},
-		{
-			"name" : "Design",
-			"skills" :
-			[
-				{
-					"name": "After Effects",
-					"logo": "resources/svgs/skills/After_effects.svg",
-					"link": "https://www.adobe.com/products/aftereffects.html"
-				},
-				{
-					"name": "Illustrator",
-					"logo": "resources/svgs/skills/Illustrator.svg",
-					"link": "https://www.adobe.com/products/illustrator.html"
-				},
-				{
-					"name": "Photoshop",
-					"logo": "resources/svgs/skills/Photoshop.svg",
-					"link": "https://www.adobe.com/products/photoshop.html"
-				},
-				{
-					"name": "Figma",
-					"logo": "resources/svgs/skills/Figma.svg",
-					"link": "https://www.figma.com/"
-				},
-				{
-					"name": "SolidWorks",
-					"logo": "resources/images/skills/SolidWorks.webp",
-					"link": "https://www.solidworks.com/"
-				}
-			]
-		},
-		{
-			"name" : "Blockchain",
-			"skills" :
-			[
-				{
-					"name": "Solidity",
-					"logo": "resources/svgs/skills/Solidity.svg",
-					"link": "https://soliditylang.org/"
-				},
-				{
-					"name": "Web3.js",
-					"logo": "resources/images/skills/Web3JS.webp",
-					"link": "https://github.com/ChainSafe/web3.js"
-				}
-			]
 		}
 	]
 }

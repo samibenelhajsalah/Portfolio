@@ -38,52 +38,6 @@
 			]
 		},
 		{
-			"name" : "Computer Graphics",
-			"skills" :
-			[
-				{
-					"name": "OpenGL",
-					"logo": "resources/svgs/skills/OpenGL.svg",
-					"link": "https://www.opengl.org//"
-				},
-				{
-					"name": "GLSL",
-					"logo": "resources/images/skills/Glsl.webp",
-					"link": "https://en.wikipedia.org/wiki/OpenGL_Shading_Language"
-				},
-				{
-					"name": "Unity",
-					"logo": "resources/svgs/skills/Unity.svg",
-					"link": "https://unity.com/"
-				},
-				{
-					"name": "JavaFX",
-					"logo": "resources/svgs/skills/JavaFX.svg",
-					"link": "https://openjfx.io"
-				},
-				{
-					"name": "WinForms",
-					"logo": "resources/images/skills/WinForms.webp",
-					"link": "https://learn.microsoft.com/en-us/dotnet/desktop/winforms/"
-				},
-				{
-					"name": "SFML",
-					"logo": "resources/svgs/skills/Sfml.svg",
-					"link": "https://www.sfml-dev.org/index.php"
-				},
-				{
-					"name": "ImGui",
-					"logo": "resources/svgs/skills/ImGui.svg",
-					"link": "https://github.com/ocornut/imgui"
-				},
-				{
-					"name": "GLM",
-					"logo": "resources/svgs/skills/Glm.svg",
-					"link": "https://glm.g-truc.net/0.9.9/"
-				}
-			]
-		},
-		{
 			"name" : "Back-end Web",
 			"skills" :
 			[

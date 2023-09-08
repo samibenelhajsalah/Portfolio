@@ -3,20 +3,19 @@
 	[
 		{
 			"date": 2023,
-			"type": "Backend Engineer Intern",
-			"title": "Klaxit",
-			"description": "Backend development for the Klaxit application (new feature implementation and bug fixes). Additionally, I developed a machine learning model to detect fraudulent activity (data collection, training, automation, and deployment).",
+			"type": "Software Engineer",
+			"title": "ONERA",
+			"description": "IBackend development for the Klaxit application (new feature implementation and bug fixes). Additionally, I developed a machine learning model to detect fraudulent activity (data collection, training, automation, and deployment).",
 			"tags":
 			[
-				{ "name": "Ruby", "url": "https://www.ruby-lang.org/" },
-				{ "name": "Rails", "url": "https://rubyonrails.org/" },
-				{ "name": "SQL", "url": "https://sql.sh" },
-				{ "name": "Python", "url": "https://www.python.org/" },
+				{ "name": "C++", "url": "https://www.ruby-lang.org/" },
+				{ "name": "Python", "url": "https://rubyonrails.org/" },
+				{ "name": "Cmake", "url": "https://cmake.org/" },
 				{ "name": "Tensorflow", "url": "https://www.tensorflow.org/" }
 			],
-			"link": "https://www.klaxit.com/",
+			"link": "https://www.onera.fr/fr",
 			"video": "none",
-			"image": "resources/images/experience/Klaxit.webp"
+			"image": "resources/images/experience/ONERA_logo.svg"
 		},
 		{
 			"date": 2022,

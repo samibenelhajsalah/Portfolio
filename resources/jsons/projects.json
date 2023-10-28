@@ -4,7 +4,7 @@
 		{
 			"date": 2023,
 			"type": "Personal Project",
-			"title": "Generative Adversarial Network Darcy",
+			"title": "Darcy Simulation",
 			"description": "This project is a deep convolutional generative adversarial network that can create high quality images from a random seed like portraits, animals, drawings and more...",
 			"tags":
 			[
@@ -18,8 +18,6 @@
 				"https://github.com/angeluriot/Generative_adversarial_network"
 			],
 			"video": "resources/videos/projects/front.mp4",
-			"image": "resources/images/projects/Generative_adversarial_network.webp",
-			"logo": "resources/svgs/projects/Generative_adversarial_network.svg",
 			"categories": ["Personal", "AI"]
 		},
 		{

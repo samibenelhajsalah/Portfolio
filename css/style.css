@@ -205,12 +205,15 @@ ol
 	d: "M16.19 8.54 8.85 15.89 1.5 8.54";
 }
 
+
+
 .in_animation
 {
 	opacity: 0;
 	transform: translateY(30px);
-	transition: opacity 0.5s ease-in-out, transform 0.5s ease-in-out;
+	transition: none;/*opacity 0.5s ease-in-out, transform 0.5s ease-in-out;*/
 }
+
 
 .section_title
 {
@@ -228,4 +231,126 @@ ol
 .safari_fix:hover
 {
 	filter: none !important;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.resume-container {
+    display: flex;
+    justify-content: space-between;
+}
+
+.resume-section {
+    width: 45%; /* Ajustez la largeur selon vos besoins */
+	color: white /*couleur de text sous education et experiece*/
+}
+
+.resume-title {
+    text-align: center; /* Pour centrer le titre */
+	color: white; /* Couleur du texte en blanc my education 
+					et My Experience */
+}
+
+
+
+/* Resume Styles */
+.resume-content{
+    display: flex;
+    gap: 24px;
+	
+	
+}
+.resume-item{
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.resume .title{
+    font-weight: 700;
+    font-size: 25px;
+    color: #474747;
+    margin-bottom: 10px;
+	
+}
+.resume .sub-title{
+    color: #757575;
+    font-weight: 600;
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+.resume-description{
+    color: blanchedalmond
+}
+
+.resume-button{
+    margin-top: 50px;
+    text-align: center;
+}
+
+
+
+
+/* Style du formulaire de contact */
+.contact-form input[type="text"],
+.contact-form input[type="email"],
+.contact-form textarea {
+    width: 100%;
+    margin-bottom: 20px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-sizing: border-box;
+}
+
+.contact-form textarea {
+    resize: vertical; /* Permet de redimensionner uniquement verticalement */
+}
+
+.contact-form input[type="submit"] {
+    width: auto;
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.contact-form input[type="submit"]:hover {
+    background-color: #0056b3;
+}
+
+
+
+
+
+.icon-github {
+    color: white;
+	text-decoration: none; /* Supprime le soulignement */
+	margin-right: 10px;
+}
+
+.icon-twitter {
+    color: white;
+	text-decoration: none; /* Supprime le soulignement */
+	margin-right: 10px;
+}
+
+.icon-linkedin {
+    color: white;
+	text-decoration: none; /* Supprime le soulignement */
+	margin-right: 10px;
 }

@@ -290,12 +290,40 @@ ol
     font-size: 20px;
     margin-bottom: 20px;
 }
-.resume-description{
+
+resume-description{
     color: blanchedalmond
 }
 
+/*pour le bouton et le text*/
+
+.btn-primary {
+	background-color: #007bff;
+	color: #fff;
+	border: none;
+	padding: 10px 20px;
+	border-radius: 5px;
+	cursor: pointer;
+	transition: background-color 0.3s ease;
+	text-decoration: none; /* Supprimer le soulignement du lien */
+}
+
+.btn-primary:hover {
+	background-color: #0056b3;
+}
+
+.btn-text {
+	font-family: 'Arial', sans-serif; /* Choisir une police de caractères */
+	font-size: 18px; /* Choisir une taille de police */
+	font-weight: bold; /* Choisir le poids de la police */
+	margin-top: 10px; /* Ajouter un espace vertical avant le texte */
+}
+
+
+
+
 .resume-button{
-    margin-top: 50px;
+    margin-top: 30px;
     text-align: center;
 }
 

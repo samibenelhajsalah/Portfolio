@@ -1,7 +1,10 @@
-#footer_section
-{
-	background-color: var(--blue);
+#footer_section {
+    background-color: #090955; /* Un bleu foncé */
+    color: white; /* Texte en blanc */
 }
+
+
+  
 
 #footer_section .content
 {
@@ -45,6 +48,7 @@
 	font-size: 16px;
 	color: white;
 	text-align: center;
+	
 }
 
 #footer_section .footer_content span
@@ -91,4 +95,13 @@
 		flex-direction: column;
 		gap: 50px;
 	}
+}
+
+
+/* #projects_section { 
+    transform: rotateX(0deg); Annule toute inclinaison
+}*/
+
+#footer_section {
+    transform: rotateX(0deg); /* Annule toute inclinaison */
 }

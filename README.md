@@ -19,10 +19,10 @@ A website presenting my projects.
 
 # Access
 
-* The website is online at the address : **[angeluriot.com](https://www.angeluriot.com/)**.
+* The website is online at the address : **https://samibenelhajsalah.github.io/Portfolio/**.
 
 <br/>
 
 # Credits
 
-* [**Angel Uriot**](https://github.com/angeluriot) : Creator of the project.
+* [**Sami BEN ELHAJ SALAH**](https://github.com/samibenelhajsalah) : Creator of the project.
